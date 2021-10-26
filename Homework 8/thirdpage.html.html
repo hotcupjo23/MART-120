@@ -1,0 +1,147 @@
+<html>
+<head>
+  <title>Contact Us!</title>
+  <p><small> Terms of Service: We sell your personal information and you get annoying phone calls from scammers. Also it all goes to Facebook.</small> </p>
+<link rel="stylesheet" type="text/css" href="mainstyle.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+<head>
+	<script>
+	function checkboxes()
+	{
+	var firstName = document.getElementById("fName").value;
+	if(firstName == "")
+	{
+		document.getElementById("fName").style.backgroundColor = "red";
+		document.getElementById("fName").focus();
+		window.alert("First Name empty!")
+	}
+	var lastName = document.getElementById("lName").value;
+	if(lastName == "")
+	{
+		document.getElementById("lName").style.backgroundColor = "red";
+		document.getElementById("lName").focus();
+		window.alert("Last Name empty!")
+	}
+	var emailName = document.getElementById("eName").value;
+	if(emailName == "")
+	{
+		document.getElementById("eName").style.backgroundColor = "red";
+		document.getElementById("eName").focus();
+		window.alert("Email Address empty!")
+	}
+	var phoneName = document.getElementById("pName").value;
+	if(phoneName == "")
+	{
+		document.getElementById("pName").style.backgroundColor = "red";
+		document.getElementById("pName").focus();
+		window.alert("Phone # empty!")
+	}
+	var socialName = document.getElementById("sName").value;
+	if(socialName == "")
+	{
+		document.getElementById("sName").style.backgroundColor = "red";
+		document.getElementById("sName").focus();
+		window.alert("Social Security # empty!")
+	}
+}
+	</script>
+</head>
+
+<body>
+  <table>
+    <tr>
+      <td>First Name: </td>
+      <td><input type="text" id="fName"></td>
+    </tr>
+<tr>
+      <td>Last Name: </td>
+      <td><input type="text" id="lName"></td>
+    </tr>
+<tr>
+      <td>Email Address:</td>
+      <td><input type="text" id="eName"></td>
+    </tr>
+    <tr>
+      <td>Phone Number: </td>
+      <td><input type="text" id="pName"></td>
+    </tr>
+<tr>
+      <td>Social Security #: </td>
+      <td><input type="text" id="sName"></td>
+    </tr>
+    <tr>
+      <td colspan="2"><button id="btnSubmit" onClick="checkboxes();">Submit</button></td>
+    </tr>
+  </table>
+  <div id="finalResult"></div>
+
+<head>
+  <script>
+    var actualAnswer;
+    var number1;
+    var number2;
+
+    function printQuestion() {
+      number1 = Math.floor(Math.random() * 10);
+      number2 = Math.floor(Math.random() * 10);
+      actualAnswer = number1 + number2;
+      document.getElementById("theQuestion").innerHTML = "What is " + number1 + "+" + number2 + "?";
+    }
+
+    function checkAnswer() {
+      var answer = document.getElementById("txtAnswer").value;
+      if (answer == actualAnswer) {
+        document.getElementById("finalResult").innerHTML = "Good job!";
+        printQuestion();
+      } else {
+        document.getElementById("finalResult").innerHTML = "Try Again!";
+      }
+    }
+
+    function runGame() {
+      for (var i = 1; i < 6; i++) {
+        document.getElementById("message").innerHTML += "<h" + i + ">Are You Smarter Than A 5th Grader?</h" + i + "></p>";
+      }
+      printQuestion();
+    }
+    runGame();
+  </script>
+</head>
+
+<body onload="runGame();">
+
+  <table>
+    <tr>
+      <td colspan="3">
+        <div id="message"></div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <hr size="1">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3">
+        <div id="theQuestion"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>Your answer</td>
+      <td><input type="text" id="txtAnswer"></td>
+    </tr>
+    <tr>
+      <td colspan="3"><button id="btnSubmit" onClick="checkAnswer();">Submit</button></td>
+    </tr>
+  </table>
+  <div id="finalResult"></div>
+
+<br/>
+<br/>
+<a href="file:///C:/Users/Josiah/Desktop/Homework%206/secondpage.html.html" button type="button" class="btn btn-primary">Back Page!</button> </a>
+  <a href="file:///C:/Users/Josiah/Desktop/Homework%206/Homepage.html.html" button type="button" class="btn btn-info"> Home Page </button> </a>
+</html>
