@@ -28,9 +28,9 @@
 	<br>
 	<span style="color:#3498db;"><strong><span style="display: none;">&nbsp;</span><a href="https://hotcupjo23.github.io/MART-120/Homework%202">Homework 2:</a><span style="display: none;">&nbsp;</span></strong> Mindset, learning styles, and Making A Dance Party<br>
 	<br>
-	<strong><a href="https://hotcupjo23.github.io/MART-120/Hoemwork%203">Homework 3:</a> </strong>PlayLab and Making Phone App&#39;s<br>
+	<strong><a href="https://hotcupjo23.github.io/MART-120/Hoemwork%203">Homework 3:</a> </strong>Scratch Project&#39;s<br>
 	<br>
-	<strong><a href="https://hotcupjo23.github.io/MART-120/Hoemwork%204">Homework 4</a>:</strong> Making a video game<br>
+	<strong><a href="https://hotcupjo23.github.io/MART-120/Hoemwork%204">Homework 4</a>:</strong> PlayLab and Making Phone App<br>
 	<br>
 	<strong><a href="https://hotcupjo23.github.io/MART-120/Homework%205">Homework 5:</a></strong> Learning how to make HTML pages from scratch</span>
 	<br>
