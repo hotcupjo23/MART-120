@@ -11,7 +11,10 @@
 </p>
 
 <p style="text-align: center;">
-	<br>
+	&nbsp;
+</p>
+
+<p>
 	<em><span style="color:#f1c40f;"><span style="font-size:16px;">Portfolio Link &amp; Table of Contents:</span></span></em>
 </p>
 
@@ -20,10 +23,14 @@
 </p>
 
 <p>
-	<span style="color:#3498db;"><strong>Homework 1:</strong> Learning the difference between CLI and GUI</span>
+	<span style="color:#3498db;"><strong><span style="display: none;">&nbsp;</span></strong><a href="https://github.com/hotcupjo23/MART-120/tree/main/Homework%201">Homework 1: </a>Learning the difference between CLI and GUI</span>
+</p>
+
+<p>
 	&nbsp;
-	<br>
-	<br>
+</p>
+
+<p>
 	<span style="color:#3498db;"><strong>Homework 2:</strong> Mindset, learning styles, and Making A Dance Party<br>
 	<br>
 	<strong>Homework 3: </strong>PlayLab and Making Phone App&#39;s<br>
@@ -31,9 +38,11 @@
 	<strong>Homework 4:</strong> Making a video game<br>
 	<br>
 	<strong>Homework 5:</strong> Learning how to make HTML pages from scratch</span>
+</p>
+
+<p>
 	<br>
-	<br>
-	<span style="color:#3498db;"> <strong> Homework 6:</strong> Learning more about how to design HTML pages<br>
+	<span style="color:#3498db;"><strong>Homework 6:</strong> Learning more about how to design HTML pages<br>
 	<br>
 	<strong>Homework 7: </strong>Learning how to link HTML pages<br>
 	<br>
