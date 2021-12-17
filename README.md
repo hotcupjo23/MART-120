@@ -24,39 +24,31 @@
 
 <p>
 	<span style="color:#3498db;"><strong><span style="display: none;">&nbsp;</span></strong><a href="https://hotcupjo23.github.io/MART-120/Homework%201">Homework 1: </a>Learning the difference between CLI and GUI</span>
-</p>
-
-<p>
+	<br>
 	&nbsp;
-</p>
-
-<p>
-	<span style="color:#3498db;"><strong>Homework 2:</strong> Mindset, learning styles, and Making A Dance Party<br>
+	<span style="color:#3498db;"><strong><span style="display: none;">&nbsp;</span><a href="https://hotcupjo23.github.io/MART-120/Homework%202">Homework 2:</a><span style="display: none;">&nbsp;</span></strong> Mindset, learning styles, and Making A Dance Party<br>
 	<br>
-	<strong>Homework 3: </strong>PlayLab and Making Phone App&#39;s<br>
+	<strong><a href="https://hotcupjo23.github.io/MART-120/Hoemwork%203">Homework 3:</a> </strong>PlayLab and Making Phone App&#39;s<br>
 	<br>
-	<strong>Homework 4:</strong> Making a video game<br>
+	<strong><a href="https://hotcupjo23.github.io/MART-120/Hoemwork%204">Homework 4</a>:</strong> Making a video game<br>
 	<br>
-	<strong>Homework 5:</strong> Learning how to make HTML pages from scratch</span>
-</p>
-
-<p>
+	<strong><a href="https://hotcupjo23.github.io/MART-120/Homework%205">Homework 5:</a></strong> Learning how to make HTML pages from scratch</span>
 	<br>
-	<span style="color:#3498db;"><strong>Homework 6:</strong> Learning more about how to design HTML pages<br>
+	<span style="color:#3498db;"><strong><a href="https://hotcupjo23.github.io/MART-120/Homework%206">Homework 6:</a></strong> Learning more about how to design HTML pages<br>
 	<br>
-	<strong>Homework 7: </strong>Learning how to link HTML pages<br>
+	<strong><a href="https://hotcupjo23.github.io/MART-120/Homework%207">Homework 7:</a> </strong>Learning how to link HTML pages<br>
 	<br>
-	<strong>Homework 8: </strong>Continuing to work on HTML pages<br>
+	<strong><a href="https://hotcupjo23.github.io/MART-120/Homework%208">Homework 8:</a> </strong>Continuing to work on HTML pages<br>
 	<br>
-	<strong>Homework 9: </strong>Coding Art in p5js<br>
+	<strong><a href="https://hotcupjo23.github.io/MART-120/Homework%209">Homework 9:</a> </strong>Coding Art in p5js<br>
 	<br>
-	<strong>Homework 10: </strong>Coding Art to move in p5js<br>
+	<strong><a href="https://hotcupjo23.github.io/MART-120/Homework%2010">Homework 10:</a> </strong>Coding Art to move in p5js<br>
 	<br>
-	<strong>Homework 11:</strong> Making a video game from scratch<br>
+	<strong><a href="https://hotcupjo23.github.io/MART-120/Hoemwork%2011">Homework 11:</a></strong> Making a video game from scratch<br>
 	<br>
-	<strong>Homework 12: </strong>Adding functions to the game<br>
+	<strong><a href="https://hotcupjo23.github.io/MART-120/Week%2012">Homework 12:</a> </strong>Adding functions to the game<br>
 	<br>
-	<strong>Homework 14:</strong> Bringing it all together!<br>
+	<strong><a href="https://hotcupjo23.github.io/MART-120/Homework14">Homework 14:</a></strong> Bringing it all together!<br>
 	<br>
-	<strong>Final Project:</strong> Lil Branches made in p5js</span>
+	<strong><a href="https://hotcupjo23.github.io/MART-120/Final-Project">Final Project:</a></strong> Lil Branches made in p5js</span>
 </p>
