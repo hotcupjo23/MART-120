@@ -23,7 +23,7 @@
 </p>
 
 <p>
-	<span style="color:#3498db;"><strong><span style="display: none;">&nbsp;</span></strong><a href="https://github.com/hotcupjo23/MART-120/tree/main/Homework%201">Homework 1: </a>Learning the difference between CLI and GUI</span>
+	<span style="color:#3498db;"><strong><span style="display: none;">&nbsp;</span></strong><a href="https://hotcupjo23.github.io/MART-120/Homework%201">Homework 1: </a>Learning the difference between CLI and GUI</span>
 </p>
 
 <p>
