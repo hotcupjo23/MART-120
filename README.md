@@ -25,6 +25,7 @@
 <p>
 	<span style="color:#3498db;"><strong><span style="display: none;">&nbsp;</span></strong><a href="https://hotcupjo23.github.io/MART-120/Homework%201">Homework 1: </a>Learning the difference between CLI and GUI</span>
 	<br>
+	<br>
 	&nbsp;
 	<span style="color:#3498db;"><strong><span style="display: none;">&nbsp;</span><a href="https://hotcupjo23.github.io/MART-120/Homework%202">Homework 2:</a><span style="display: none;">&nbsp;</span></strong> Mindset, learning styles, and Making A Dance Party<br>
 	<br>
