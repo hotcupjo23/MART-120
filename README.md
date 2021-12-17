@@ -26,7 +26,6 @@
 	<span style="color:#3498db;"><strong><span style="display: none;">&nbsp;</span></strong><a href="https://hotcupjo23.github.io/MART-120/Homework%201">Homework 1: </a>Learning the difference between CLI and GUI</span>
 	<br>
 	<br>
-	&nbsp;
 	<span style="color:#3498db;"><strong><span style="display: none;">&nbsp;</span><a href="https://hotcupjo23.github.io/MART-120/Homework%202">Homework 2:</a><span style="display: none;">&nbsp;</span></strong> Mindset, learning styles, and Making A Dance Party<br>
 	<br>
 	<strong><a href="https://hotcupjo23.github.io/MART-120/Hoemwork%203">Homework 3:</a> </strong>PlayLab and Making Phone App&#39;s<br>
@@ -35,7 +34,9 @@
 	<br>
 	<strong><a href="https://hotcupjo23.github.io/MART-120/Homework%205">Homework 5:</a></strong> Learning how to make HTML pages from scratch</span>
 	<br>
-	<span style="color:#3498db;"><strong><a href="https://hotcupjo23.github.io/MART-120/Homework%206">Homework 6:</a></strong> Learning more about how to design HTML pages<br>
+	<br>
+	<span style="color:#3498db;"><strong><a href="https://hotcupjo23.github.io/MART-120/Homework%206">Homework 6:</a></strong> Learning more about how to design HTML pages
+	<br>
 	<br>
 	<strong><a href="https://hotcupjo23.github.io/MART-120/Homework%207">Homework 7:</a> </strong>Learning how to link HTML pages<br>
 	<br>
